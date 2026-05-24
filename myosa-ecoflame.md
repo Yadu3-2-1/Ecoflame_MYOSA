@@ -1,6 +1,6 @@
 
 ---
-publishDate: 2025-05-23T00:00:00Z
+publishDate: 2025-05-24T00:00:00Z
 title: EcoFlame – Smart LPG Optimization and Safety System
 excerpt: A non-invasive IoT module built on the Myosa 5.0 platform that monitors flame health, knob position, and vessel presence on any gas stove to prevent LPG wastage and ensure kitchen safety.
 image: ecoflame-cover.jpg
@@ -19,6 +19,7 @@ tags:
 ## Acknowledgements
 
 We express our sincere gratitude to our Faculty Mentor, Prof. Sreeram M, for his guidance and support throughout this project. We thank our department and institution for providing the necessary resources and encouragement.
+We also thank Vimal John M V, for his continuous support and help, during the ideation phase of this project.
 We also appreciate the IEEE MYOSA Event 5.0 organizers for offering this valuable platform to promote innovation and practical learning.
 Finally, we thank our team members for their dedication and teamwork, which contributed greatly to the successful completion of this project.
 
@@ -127,11 +128,6 @@ Boot → Hold at OFF position  → 20 readings averaged → baseAngle stored
 ```
 
 At runtime, a **rolling average of 5 samples** smooths MPU6050 noise from ±30° down to approximately ±6°. A **closest-wins algorithm** then compares the smoothed angle against all three calibrated targets — whichever is nearest determines the current knob state. This eliminates dead zones and requires no manual threshold tuning.
-
-<p align="center">
-  <img src="/ecoflame-knob-calibration-serial.jpg" width="800"><br/>
-  <i>Serial Monitor showing calibration output — OFF, HIGH, and SIMMER angles recorded at startup</i>
-</p>
 
 ---
 
