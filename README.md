@@ -243,11 +243,17 @@ EcoFlame/
 
 ## 🙏 Acknowledgements
 
+## 🙏 Acknowledgements
+
 Built as part of the **Myosa Innovation Competition** under the theme:
 
 **Energy Conservation & Smart Home**
 
-Special thanks to the Myosa platform for enabling innovative sensor repurposing and rapid IoT prototyping.
+We extend our sincere gratitude to **Professor Sreeram** for his invaluable mentorship, guidance, and continuous support throughout the development of EcoFlame.
+
+We would also like to thank **Vimal John M V**, whose insights and discussions served as the inspiration behind the EcoFlame concept.
+
+Special thanks to the **Myosa platform** for providing the sensor ecosystem that enabled innovative hardware repurposing and rapid IoT prototyping, making EcoFlame possible.
 
 ---
 
