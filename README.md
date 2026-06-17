@@ -247,7 +247,7 @@ Built as part of the **Myosa Innovation Competition** under the theme:
 
 **Energy Conservation & Smart Home**
 
-We extend our sincere gratitude to **Professor Sreeram** for his invaluable mentorship, guidance, and continuous support throughout the development of EcoFlame.
+We extend our sincere gratitude to **Professor Sreeram M** for his invaluable mentorship, guidance, and continuous support throughout the development of EcoFlame.
 
 We would also like to thank **Vimal John M V**, whose insights and discussions served as the inspiration behind the EcoFlame concept.
 
