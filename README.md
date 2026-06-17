@@ -243,8 +243,6 @@ EcoFlame/
 
 ## 🙏 Acknowledgements
 
-## 🙏 Acknowledgements
-
 Built as part of the **Myosa Innovation Competition** under the theme:
 
 **Energy Conservation & Smart Home**
